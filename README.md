@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhirthacker7
+-  I have some experience with web development through HTML, CSS, JS, React.js, Node.js etc.
 - 👀 I’m interested in web apps and AI/ML
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on topics based on data analysis and ML
+-  I’m currently learning python and R 
 - 📫 How to reach me dhirthacker7@gmail.com
 
 <!---
