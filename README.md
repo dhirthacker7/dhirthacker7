@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhirthacker7
--  I have some experience with web development through HTML, CSS, JS, React.js, Node.js etc.
-- 👀 I’m interested in web apps and AI/ML
--  I’m currently learning python and R 
+-  I have experience with web development in the MERN stack.
+-  I have professional experience with OS administration and security working as an SAP Basis administrator.
+- 👀 I’m interested in data analysis and AI/ML 
 - 📫 How to reach me dhirthacker7@gmail.com
 
 <!---
