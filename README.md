@@ -1,7 +1,7 @@
 👋 Hi, I’m @dhirthacker7
-- I have experience with web development in the MERN stack.
-- I have professional experience with OS administration and security from working as an SAP Basis administrator and SAP Security consultant.
 - I have made projects in Python leveraging machine learning techniques and algorithms.
+- I have made ETL pipelines leveraging applications like Alteryx, Talend, Azure Data Studio.
+- I have professional experience with OS administration and security from working as an SAP Basis administrator and SAP Security consultant.
 - 👀 I’m interested in data analysis and AI/ML 
 - 📫 How to reach me dhirthacker7@gmail.com
 
