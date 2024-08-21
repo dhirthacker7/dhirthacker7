@@ -19,10 +19,11 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 - Northeastern University - Master of Science in Information Systems (Expected Graduation Date - May 2025)
 - Symbiosis International University - Bachelors of Technology in Computer Science and Engineering (2017-2021)
 
-📫 How to reach me: [LinkedIn][1] | [Email][2]
+📫 How to reach me: [Website][1] | [LinkedIn][2] | [Email][3]
 
-[1]: http://linkedin.com/in/dhirthacker7/  "LinkedIn"
-[2]: mailto:dhirthacker7@gmail.com   "Email"
+[1]: https://dhirthacker7.github.io/portfolio_website/  "Website"
+[2]: http://linkedin.com/in/dhirthacker7/  "LinkedIn"
+[3]: mailto:dhirthacker7@gmail.com   "Email"
 
 
 <!---
