@@ -21,7 +21,7 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 
 📫 **How to reach me**: [LinkedIn][2] | [Email][3]
 
-🌐 Check out my website: [Website][3]
+🌐 **Check out my website**: [Website][3]
 
 [1]: http://linkedin.com/in/dhirthacker7/  "LinkedIn"
 [2]: mailto:dhirthacker7@gmail.com   "Email"
