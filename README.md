@@ -5,7 +5,7 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 - I have over 2 years of industry experience working as an analyst, experienced in analyzing data to uncover meaningful insights. My experience includes refining data processes, optimizing system efficiency, and creating data-driven solutions, particularly in business intelligence and system scalability.
 - I have a strong attention to detail, which helps me ensure accuracy and effectiveness in my work. I thrive in collaborative environments and enjoy the challenge of turning complex data into clear, actionable outcomes
 
-🔧 Technologies and tools I'm familiar with
+🔧 **Technologies and tools I'm familiar with**
 
 - Programming languages: C++, Python, SQL, PL/SQL, JavaScript, R
 - Databases: MSSQL server, MySQL, Oracle, MongoDB
@@ -14,12 +14,12 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 -	Other Tools: Git, R studio, MS Excel, JIRA
 
 
-📚 Education
+📚 **Education**
 
 - Northeastern University - Master of Science in Information Systems (Expected Graduation Date - May 2025)
 - Symbiosis International University - Bachelors of Technology in Computer Science and Engineering (2017-2021)
 
-📫 How to reach me:  | [LinkedIn][2] | [Email][3]
+📫 **How to reach me**:  | [LinkedIn][2] | [Email][3]
 
 Check out my website! [Website][3]
 
