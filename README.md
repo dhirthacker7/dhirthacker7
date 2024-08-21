@@ -1,5 +1,5 @@
 **Hi, I’m Dhir Thacker👋**
-
+---
 I'm currently a graduate student at Northeastern University, majoring in Information Systems
 
 - I have over 2 years of industry experience working as an analyst, experienced in analyzing data to uncover meaningful insights. My experience includes refining data processes, optimizing system efficiency, and creating data-driven solutions, particularly in business intelligence and system scalability.
