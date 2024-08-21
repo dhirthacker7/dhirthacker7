@@ -19,7 +19,7 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 - Northeastern University - Master of Science in Information Systems (Expected Graduation Date - May 2025)
 - Symbiosis International University - Bachelors of Technology in Computer Science and Engineering (2017-2021)
 
-📫 **How to reach me**:  | [LinkedIn][2] | [Email][3]
+📫 **How to reach me**: [LinkedIn][2] | [Email][3]
 
 Check out my website: [Website][3]
 
