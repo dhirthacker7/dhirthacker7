@@ -22,8 +22,7 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 - Symbiosis International University - Bachelors of Technology in Computer Science and Engineering (2017-2021)
 
 
-📫 **How to reach me**: [LinkedIn][2] | [Email][3]
-
+📫 **How to reach me**: [LinkedIn][1] | [Email][2]
 
 🌐 **Check out my website**: [Website][3]
 
