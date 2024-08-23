@@ -20,11 +20,12 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 
 - Northeastern University - Master of Science in Information Systems (Expected Graduation Date - May 2025)
 - Symbiosis International University - Bachelors of Technology in Computer Science and Engineering (2017-2021)
-<br>
-<br>
+
 <br>
 
 📫 **How to reach me**: [LinkedIn][1] | [Email][2]
+
+<br>
 
 🌐 **Check out my website**: [Website][3]
 
