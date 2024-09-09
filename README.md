@@ -31,7 +31,7 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 
 [1]: http://linkedin.com/in/dhirthacker7/  "LinkedIn"
 [2]: mailto:dhirthacker7@gmail.com   "Email"
-[3]: https://dhirthacker7.github.io/portfolio_website/  "Website"
+[3]: https://dhirthacker07.github.io/  "Website"
 
 
 
