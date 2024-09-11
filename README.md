@@ -8,6 +8,7 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 
 
 🔧 **Technologies and tools I'm familiar with**
+![image](https://github.com/user-attachments/assets/02532c80-ea61-40c1-b74e-d82d1944715b)
 
 - Programming languages: C++, Python, SQL, PL/SQL, JavaScript, R
 - Databases: MSSQL server, MySQL, Oracle, MongoDB
