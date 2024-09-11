@@ -25,8 +25,6 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 
 📫 **How to reach me**: [LinkedIn][1] | [Email][2]
 
-<br>
-
 🌐 **Check out my website**: [Website][3]
 
 [1]: http://linkedin.com/in/dhirthacker7/  "LinkedIn"
