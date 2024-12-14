@@ -20,7 +20,6 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 - Northeastern University - Master of Science in Information Systems (Expected Graduation Date - May 2025)
 - Symbiosis International University - Bachelors of Technology in Computer Science and Engineering (2017-2021)
 
-<br>
 
 📫 **How to reach me**: [LinkedIn][1] | [Email][2]
 
@@ -29,7 +28,6 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 [1]: http://linkedin.com/in/dhirthacker7/  "LinkedIn"
 [2]: mailto:dhirthacker7@gmail.com   "Email"
 [3]: https://dhirthacker07.github.io/  "Website"
-
 
 
 <!---
