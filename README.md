@@ -27,8 +27,7 @@ I am a graduate student at Northeastern University, majoring in Information Syst
 
 [1]: http://linkedin.com/in/dhirthacker7/  "LinkedIn"
 [2]: mailto:dhirthacker7@gmail.com   "Email"
-[3]: https://dhirthacker07.github.io/  "Website"
-
+[3]: https://tulip-krill-364.notion.site/Dhir-Thacker-170ce8174b498085b60edcd32c3b9338  "Website"
 
 <!---
 dhirthacker7/dhirthacker7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
