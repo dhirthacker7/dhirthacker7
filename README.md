@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a grad student at Northeastern University, exploring everything from cloud-native systems to AI-powered apps. I love turning messy data into clean solutions and building things that solve real-world problems.
 
-### 🧠 Interests & What I’m Exploring
+## 🧠 Interests & What I’m Exploring
 
 I love working at the intersection of data systems and intelligence. Right now, I am especially into:
 - Generative AI & LLMs (RAG apps, LangChain, Pinecone)
