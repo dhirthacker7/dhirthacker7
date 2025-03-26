@@ -27,8 +27,6 @@ Docker · Kubernetes · Git · Postman · JIRA · VS Code
 
 ### 🚀 What I've Built
 
-## 🚀 What I've Built
-
 - **🧠 AIVY – AI Learning Assistant:** A Generative AI app that scrapes, chunks, and retrieves content using OpenAI, Pinecone, and Streamlit.  
 - **🚦 CrashStat – Vehicle Collision Analytics:** An ETL and dashboarding project analyzing NYC crash data using Talend, SQL Server, and Power BI.  
 - **📈 Sales Forecasting with ML:** Built a time-series forecasting pipeline using ARIMA and XGBoost to predict sales and optimize inventory.  
