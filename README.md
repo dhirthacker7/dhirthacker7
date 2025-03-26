@@ -2,11 +2,13 @@
 
 Welcome to my GitHub! I’m a grad student at Northeastern University, exploring everything from cloud-native systems to AI-powered apps. I love turning messy data into clean solutions and building things that solve real-world problems.
 
-Lately, I’ve been diving into:
-- Generative AI & LLMs (think RAG apps, Pinecone, LangChain)
-- Cloud data engineering (AWS, GCP, Airflow, Kafka)
-- Real-time analytics & dashboarding
-- Automating things with Python, SQL, and a bunch of glue code
+## 🧠 Interests & What I’m Exploring
+
+I love working at the intersection of data systems and intelligence. Right now, I am especially into:
+- Generative AI & LLMs (RAG apps, LangChain, Pinecone)
+- Cloud-native data engineering with AWS, GCP, and Airflow
+- Real-time analytics using Kafka & Spark
+- MLOps & scalable ML pipelines
 
 ## 🛠️ Tech I'm into
 
@@ -46,12 +48,6 @@ Built a time-series forecasting pipeline using ARIMA and XGBoost to predict reta
 #### 🏋️ KILO – Fitness App  
 Collaborated on developing a comprehensive fitness app that allows users to track workouts, monitor progress, and engage with a community. Features include workout summaries, social media integration, and a yoga module utilizing machine learning for posture tracking.  
 **Stack:** Flutter · Firebase (Firestore, Storage, Authentication) · PoseNet
-
-## 🌱 Currently Exploring
-
-- Multi-modal LLM apps with vector DBs
-- Real-time stream processing with Kafka & Spark
-- MLOps for deploying & monitoring models at scale
 
 ---
 
