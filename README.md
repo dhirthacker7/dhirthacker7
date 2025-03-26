@@ -27,27 +27,12 @@ Docker · Kubernetes · Git · Postman · JIRA · VS Code
 
 ### 🚀 What I've Built
 
-#### 🧠 AIVY – AI Learning Assistant  
-A Generative AI-powered assistant that scrapes learning content, processes it, stores it in Pinecone, and answers questions using OpenAI APIs.  
-**Stack:** Streamlit · FastAPI · Airflow · Pinecone · OpenAI · Snowflake · AWS S3 · Docker · GitHub Actions
+## 🚀 What I've Built
 
----
-
-#### 🚦 CrashStat – Vehicle Collision Analytics  
-End-to-end analysis of 1M+ NYC vehicle crash records. Cleaned data with Python & Alteryx, modeled with SQL/Talend, and visualized with Power BI.  
-**Stack:** Python · Alteryx · Talend · SQL Server · Power BI
-
----
-
-#### 📈 Sales Forecasting with ML  
-Built a time-series forecasting pipeline using ARIMA and XGBoost to predict retail sales and optimize inventory planning.  
-**Stack:** Python · Pandas · NumPy · XGBoost · ARIMA · Scikit-learn
-
----
-
-#### 🏋️ KILO – Fitness App  
-Collaborated on developing a comprehensive fitness app that allows users to track workouts, monitor progress, and engage with a community. Features include workout summaries, social media integration, and a yoga module utilizing machine learning for posture tracking.  
-**Stack:** Flutter · Firebase (Firestore, Storage, Authentication) · PoseNet
+- **🧠 AIVY – AI Learning Assistant:** A Generative AI app that scrapes, chunks, and retrieves content using OpenAI, Pinecone, and Streamlit.  
+- **🚦 CrashStat – Vehicle Collision Analytics:** An ETL and dashboarding project analyzing NYC crash data using Talend, SQL Server, and Power BI.  
+- **📈 Sales Forecasting with ML:** Built a time-series forecasting pipeline using ARIMA and XGBoost to predict sales and optimize inventory.  
+- **🏋️ KILO – Fitness App:** A mobile app for tracking workouts and yoga postures using PoseNet and Firebase, built with Flutter.
 
 ---
 
