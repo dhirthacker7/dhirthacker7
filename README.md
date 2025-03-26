@@ -8,7 +8,7 @@ Lately, I’ve been diving into:
 - Real-time analytics & dashboarding
 - Automating things with Python, SQL, and a bunch of glue code
 
-### 🛠️ Tech I'm into
+## 🛠️ Tech I'm into
 
 #### Languages  
 Python · SQL · C++ · R · JavaScript
@@ -23,7 +23,7 @@ Power BI · Tableau · Looker · Alteryx · Talend
 #### DevOps & Tools  
 Docker · Kubernetes · Git · Postman · JIRA · VS Code
 
-### 🚀 What I've Built
+## 🚀 What I've Built
 
 #### 🧠 AIVY – AI Learning Assistant  
 A Generative AI-powered assistant that scrapes learning content, processes it, stores it in Pinecone, and answers questions using OpenAI APIs.  
@@ -47,7 +47,7 @@ Built a time-series forecasting pipeline using ARIMA and XGBoost to predict reta
 Collaborated on developing a comprehensive fitness app that allows users to track workouts, monitor progress, and engage with a community. Features include workout summaries, social media integration, and a yoga module utilizing machine learning for posture tracking.  
 **Stack:** Flutter · Firebase (Firestore, Storage, Authentication) · PoseNet
 
-### 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - Multi-modal LLM apps with vector DBs
 - Real-time stream processing with Kafka & Spark
