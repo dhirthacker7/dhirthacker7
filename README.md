@@ -10,7 +10,7 @@ I love working at the intersection of data systems and intelligence. Right now, 
 - Real-time analytics using Kafka & Spark
 - MLOps & scalable ML pipelines
 
-## 🚀 Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - **Languages:** Python, SQL, C++, R, JavaScript  
 - **Databases:** PostgreSQL, MySQL, MSSQL, Oracle, MongoDB, Cassandra  
