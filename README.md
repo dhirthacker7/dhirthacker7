@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a grad student at Northeastern University, exploring
 
 I love working at the intersection of data systems and intelligence. Right now, I am especially into:
 - Generative AI & LLMs (RAG apps, LangChain, Pinecone)
-- Cloud-native data engineering with AWS, GCP, and Airflow
+- Cloud-native data engineering pipelines with AWS, GCP, and Airflow
 - Real-time analytics using Kafka & Spark
 - MLOps & scalable ML pipelines
 
