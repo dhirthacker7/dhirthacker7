@@ -8,8 +8,6 @@ Lately, I’ve been diving into:
 - Real-time analytics & dashboarding
 - Automating things with Python, SQL, and a bunch of glue code
 
----
-
 ### 🛠️ Tech I'm into
 
 ### Languages  
@@ -24,15 +22,6 @@ TensorFlow · PyTorch · Scikit-learn · RAG · LangChain · Generative AI · NL
 Power BI · Tableau · Looker · Alteryx · Talend
 ### DevOps & Tools  
 Docker · Kubernetes · Git · Postman · JIRA · VS Code
-
-**Languages:** Python, SQL, C++, R, JavaScript  
-**Databases:** **SQL**(PostgreSQL, MySQL, MSSQL, Oracle), **NoSQL** (MongoDB, Cassandra)  
-**Cloud & Big Data:** AWS (S3, Lambda, EC2, Glue, Redshift), GCP (BigQuery, Dataflow), Airflow, Kafka, Snowflake, Hadoop, Spark  
-**ML & AI:** TensorFlow, PyTorch, Scikit-learn, RAG, LangChain, Generative AI, NLP  
-**Dashboards & Analytics:** Power BI, Tableau, Looker, Alteryx, Talend  
-**DevOps & Tools:** Docker, Kubernetes, Git, Postman, JIRA, VS Code
-
----
 
 ### 🚀 What I've Built
 
@@ -57,8 +46,6 @@ Built a time-series forecasting pipeline using ARIMA and XGBoost to predict reta
 #### 🏋️ KILO – Fitness App  
 Collaborated on developing a comprehensive fitness app that allows users to track workouts, monitor progress, and engage with a community. Features include workout summaries, social media integration, and a yoga module utilizing machine learning for posture tracking.  
 **Stack:** Flutter · Firebase (Firestore, Storage, Authentication) · PoseNet
-
----
 
 ### 🌱 Currently Exploring
 
