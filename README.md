@@ -12,6 +12,19 @@ Lately, I’ve been diving into:
 
 ### 🛠️ Tech I'm into
 
+### Languages  
+Python · SQL · C++ · R · JavaScript
+### Data & Databases  
+PostgreSQL · MySQL · MSSQL · Oracle · MongoDB · Cassandra
+### Cloud & Big Data  
+AWS (S3, Lambda, EC2, Glue, Redshift) · GCP (BigQuery, Dataflow) · Airflow · Kafka · Snowflake · Hadoop · Spark
+### ML & AI  
+TensorFlow · PyTorch · Scikit-learn · RAG · LangChain · Generative AI · NLP
+### Dashboards & Analytics  
+Power BI · Tableau · Looker · Alteryx · Talend
+### DevOps & Tools  
+Docker · Kubernetes · Git · Postman · JIRA · VS Code
+
 **Languages:** Python, SQL, C++, R, JavaScript  
 **Databases:** **SQL**(PostgreSQL, MySQL, MSSQL, Oracle), **NoSQL** (MongoDB, Cassandra)  
 **Cloud & Big Data:** AWS (S3, Lambda, EC2, Glue, Redshift), GCP (BigQuery, Dataflow), Airflow, Kafka, Snowflake, Hadoop, Spark  
