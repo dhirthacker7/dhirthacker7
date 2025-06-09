@@ -1,5 +1,10 @@
 ## Hey there! I am Dhir Thacker 👋
 
+![Data Engineer](https://img.shields.io/badge/DATA%20ENGINEER-007ACC?style=for-the-badge&logo=databricks&logoColor=white)
+![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20ENGINEER-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cloud Architect](https://img.shields.io/badge/CLOUD%20ARCHITECT-1E1E2F?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+
 Welcome to my GitHub! I’m a grad student at Northeastern University, exploring everything from cloud-native systems to AI-powered apps. I love turning messy data into clean solutions and building things that solve real-world problems.
 
 ## 🧠 Interests & What I’m Exploring
