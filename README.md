@@ -2,7 +2,7 @@
 
 ![Data Engineer](https://img.shields.io/badge/DATA%20ENGINEER-007ACC?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-1E1E2F?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AI Engineer](https://img.shields.io/badge/AI%2F%20ENGINEER-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20ENGINEER-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 Welcome to my GitHub! I’m a grad student at Northeastern University, exploring everything from cloud-native systems to AI-powered apps. I love turning messy data into clean solutions and building things that solve real-world problems.
 
