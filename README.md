@@ -31,6 +31,10 @@ I love working at the intersection of data systems and intelligence. Right now, 
 
 ---
 
+📫 **How to reach me!** 
+[LinkedIn][1]
+[Email][2]
+
 📫 **How to reach me**: [LinkedIn][1] | [Email][2]
 
 🌐 **Check out my website**: [Website][3]
