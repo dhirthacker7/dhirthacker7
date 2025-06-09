@@ -12,7 +12,6 @@ I love working at the intersection of data systems and intelligence. Right now, 
 - Generative AI & LLMs (RAG apps, LangChain)
 - Cloud-native data engineering pipelines with AWS, GCP, and Airflow
 - Real-time analytics using Kafka & Spark
-- MLOps & scalable ML pipelines
 
 ## 🛠️ Technologies & Tools
 
