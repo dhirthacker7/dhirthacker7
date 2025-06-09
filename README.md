@@ -24,7 +24,7 @@ I love working at the intersection of data systems and intelligence. Right now, 
 
 ## 🚀 What I've Built
 
-- **🧠 AIVY – AI Learning Assistant:** A Generative AI app that scrapes, chunks, and retrieves content using OpenAI, Pinecone, and Streamlit.  
+- **🧠 AIVY – AI Learning Assistant:** A Generative AI multimodal RAG app that scrapes, chunks, and retrieves content using OpenAI, Pinecone, and Streamlit.  
 - **🚦 CrashStat – Vehicle Collision Analytics:** An ETL and dashboarding project analyzing NYC crash data using Talend, SQL Server, and Power BI.  
 - **📈 Sales Forecasting with ML:** Built a time-series forecasting pipeline using ARIMA and XGBoost to predict sales and optimize inventory.  
 - **🏋️ KILO – Fitness App:** A mobile app for tracking workouts and yoga postures using PoseNet and Firebase, built with Flutter.
