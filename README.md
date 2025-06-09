@@ -17,10 +17,10 @@ I love working at the intersection of data systems and intelligence. Right now, 
 
 - **Languages:** Python, SQL, C++, R, JavaScript  
 - **Databases:** PostgreSQL, MySQL, MSSQL, Oracle, MongoDB, Cassandra  
-- **Cloud & Big Data:** AWS (S3, Lambda, EC2, Glue, Redshift), GCP (BigQuery, Dataflow), Airflow, Kafka, Snowflake, Hadoop, Spark  
+- **Cloud & Big Data:** AWS (S3, Glue, Redshift, Lambda, Kinesis, QuickSight, EC2), GCP, Airflow, Kafka, Snowflake, Hadoop, Spark  
 - **ML & AI:** TensorFlow, PyTorch, Scikit-learn, RAG, LangChain, Generative AI, NLP  
-- **Dashboards & Analytics:** Power BI, Tableau, Looker, Alteryx, Talend  
-- **DevOps & Tools:** Docker, Kubernetes, Git, Postman, JIRA, VS Code
+- **Dashboards & Analytics:** Power BI, Tableau, Looker, Alteryx, Talend, DImensional modeling  
+- **DevOps & Tools:** Docker, Kubernetes, Git, Postman, JIRA, VS Code, Data Governance
 
 ## 🚀 What I've Built
 
